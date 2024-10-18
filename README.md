@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Nixon-H/Attachments/refs/heads/main/HackerM.gif" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -15,8 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`[|-§ Nixon §-|]`](https://github.com/Nixon-H/)**, a Hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
-**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
+I'm **[`[|-§ Nixon §-|]`](https://github.com/Nixon-H/)** - A Hacker and Security Researcher dedicated to mastering the art of cybersecurity. With an unwavering passion for technology, I am honing my craft in vulnerability assessment. As I work toward becoming a respected Cybersecurity Specialist or Bug Hunter, my mission is to safeguard critical digital assets and contribute to a more secure, resilient cyber landscape. Through innovation and expertise, I aim to protect organizations while fostering a safer, more informed community.
 
 
 <details>
@@ -47,7 +46,7 @@ I'm **[`[|-§ Nixon §-|]`](https://github.com/Nixon-H/)**, a Hacker & Security 
 - Revitalized a robotic arm by recovering access to its Ubuntu 12.04 operating system, which had been locked for over five years due to forgotten credentials, while addressing a corrupted BIOS GUI.
 - Demonstrated exceptional technical acumen and innovative problem-solving skills by successfully restoring the software of a malfunctioning robot.
 
-|-**[`Certificate`](https://github.com/Nixon-H/)**-|
+|-**[`Certificate`](https://raw.githubusercontent.com/Nixon-H/Attachments/refs/heads/main/IC.jpg)**-|
 
 </details>
 
@@ -62,7 +61,7 @@ Accomplishment Overview:
 
 - The ramifications of my injections were significant, underscoring the urgent necessity for enhanced security protocols in web applications. My findings engendered recommendations for robust input validation measures and the implementation of regular security audits, thereby contributing to the broader cybersecurity community's endeavors to fortify defenses against HTML injection attacks.
 
-|-**[`Certificate`](https://github.com/Nixon-H/)**-|
+|-**[`Screenshot`]([https://github.com/Nixon-H/](https://raw.githubusercontent.com/Nixon-H/Attachments/refs/heads/main/NC.jpg))**-|
 
 
 </details>
@@ -134,10 +133,10 @@ Accomplishment Overview:
 <h2 id="donate" align=''> Support⚡️</h2>
 
 <details>
-<summary>Buy Me A Coffee</summary>
-
-
-
+<summary>Be a spectator - Be a guest</summary>
+<br>
+<p align="center"><img src="https://i.ibb.co/4ZVxH23/DV-VC.gif" width="40%" height="auto"/></p>
+<p align="center">Defacement</p>
 <p align="center"><a href="https://buymeacoffee.com/Nixon-H"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details>
