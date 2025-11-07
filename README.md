@@ -61,7 +61,7 @@ Accomplishment Overview:
 
 - The ramifications of my injections were significant, underscoring the urgent necessity for enhanced security protocols in web applications. My findings engendered recommendations for robust input validation measures and the implementation of regular security audits, thereby contributing to the broader cybersecurity community's endeavors to fortify defenses against HTML injection attacks.
 
-|-**[`Screenshot`]([https://github.com/Nixon-H/](https://raw.githubusercontent.com/Nixon-H/Attachments/refs/heads/main/NC.jpg))**-|
+|-**[`Screenshot`](https://raw.githubusercontent.com/Nixon-H/Attachments/refs/heads/main/NC.jpg)**-|
 
 
 </details>
