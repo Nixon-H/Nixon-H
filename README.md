@@ -7,13 +7,13 @@
   </a>
 </div>
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
-
-
 <h2 align="left">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
+
+<img width="20%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+
 
 I'm **[`[|-§ Nixon §-|]`](https://github.com/Nixon-H/)** - A Hacker and Security Researcher dedicated to mastering the art of cybersecurity. With an unwavering passion for technology, I am honing my craft in vulnerability assessment. As I work toward becoming a respected Cybersecurity Specialist or Bug Hunter, my mission is to safeguard critical digital assets and contribute to a more secure, resilient cyber landscape. Through innovation and expertise, I aim to protect organizations while fostering a safer, more informed community.
 
