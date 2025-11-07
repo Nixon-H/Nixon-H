@@ -1,4 +1,3 @@
-
 <p align="center"><img src="https://raw.githubusercontent.com/Nixon-H/Attachments/refs/heads/main/HackerM.gif" width="100%" height="auto"/></p>
 
 <div align="center">
@@ -36,7 +35,7 @@ I'm **[`[|-§ Nixon §-|]`](https://github.com/Nixon-H/)** - A Hacker and Securi
 
 ---
 
-<h2 id="present_status"> Momentous Life Events </h3>
+<h2 id="present_status"> Momentous Life Events </h2>
 
 <details>
   <summary>Intern at IIT Mandi (Indian Institute of Technology)</summary>
@@ -70,7 +69,7 @@ Accomplishment Overview:
 
 ---
 
-<h2 id="present_status"> Present Status </h3>
+<h2 id="present_status"> Present Status </h2>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
@@ -118,6 +117,49 @@ Accomplishment Overview:
 
 ---
 
+<h2 id="projects" align=''>Featured Projects 🚀</h2>
+
+<details>
+  <summary><b>Pen-Forge:</b> Automated Cybersecurity Toolkit Installer</summary>
+  <br>
+  <p><b>Pen-Forge</b> is an automated toolkit installer and manager designed for penetration testers, bug bounty hunters, and security researchers. It streamlines the installation of 150+ cybersecurity tools across multiple categories, handling dependencies, environment configuration, and system optimization automatically.</p>
+  <p><a href="https://github.com/Nixon-H/Pen-Forge"><b>View Repository</b></a></p>
+</details>
+
+<details>
+  <summary><b>OrbitalRelay:</b> Resilient Proxy From Cloudflare Workers</summary>
+  <br>
+  <p><b>OrbitalRelay</b> utilizes Cloudflare Workers to create dynamic proxy endpoints, designed for reliability and resilience. It supports deploying both simple HTTP redirection workers and robust SOCKS5 workers simultaneously. The SOCKS5 mode includes an intelligent fallback mechanism, automatically routing traffic through a secondary relay server (deployable on free-tier services like Render) when direct connections via Cloudflare encounter blocks. This ensures high availability while operating entirely within free service limits.</p>
+  <p><a href="https://github.com/Nixon-H/orbital_relay"><b>View Repository</b></a></p>
+</details>
+
+<br>
+
+---
+
+<!-- <h2 id="blog_posts" align=''>Blog Posts / Write-ups ✍️</h2>
+
+<details>
+  <summary>Write-up 1: [Title of Your Blog Post]</summary>
+  <br>
+  <p>A short summary of the write-up. For example, "A detailed walkthrough of how I found an HTML Injection vulnerability on [Target], leading to a Hall of Fame recognition."</p>
+  <p>
+    <a href="[LINK_TO_YOUR_BLOG_POST_OR_WRITEUP]"><b>Read More</b></a>
+  </p>
+</details>
+
+<details>
+  <summary>Write-up 2: [Title of Your Blog Post]</summary>
+  <br>
+  <p>A short summary of the write-up. "Deconstructing a recent CTF challenge, focusing on the reverse engineering part."</p>
+  <p>
+    <a href="[LINK_TO_YOUR_BLOG_POST_OR_WRITEUP]"><b>Read More</b></a>
+  </p>
+</details>
+
+<br> 
+
+--- -->
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
@@ -130,6 +172,29 @@ Accomplishment Overview:
 <br><br>
 <br><br>
 
+---
+
+<h2 id="connect" align=''>Connect with me 🤝</h2>
+
+<br>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
+  <a href="https://www.linkedin.com/in/aditya-sing%D2%BB/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+    <a href="mailto:Nixon-HByte@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
+  </a>
+  <a href="https://twitter.com/your-username">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+
+</div>
+
+<br>
+
+---
+
 <h2 id="donate" align=''> Support⚡️</h2>
 
 <details>
@@ -137,7 +202,7 @@ Accomplishment Overview:
 <br>
 <p align="center"><img src="https://i.ibb.co/4ZVxH23/DV-VC.gif" width="40%" height="auto"/></p>
 <p align="center">Defacement</p>
-<p align="center"><a href="https://buymeacoffee.com/Nixon-H"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+<p align="center"><a href="https://buymeacoffee.com/Nixon-H"><img  src="https://img.shields.io/badge/Buy%20Me%a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details> 
 
